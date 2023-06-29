@@ -28,16 +28,9 @@ Compile the project and run the TrackInfo application using the following comman
 
 The application will display information about the track, including the number of points, lowest and highest points, total distance traveled, and average speed.
 
-Advanced Tasks (Optional)
+Advanced Tasks:
 The program provides additional advanced tasks for extra marks:
 
 Option 1: KML Files: This task involves adding a method to the Track class that writes track data to a KML file, and creating a program (ConvertToKML) to convert a CSV track file to a KML file.
 
 Option 2: Elevation Plot: This task requires implementing a JavaFX application (PlotApplication) that plots elevation as a function of distance along a track.
-
-Please refer to the assignment documentation for detailed instructions on how to complete these advanced tasks.
-
-License
-This project is licensed under the MIT License.
-
-Feel free to explore and modify the code to meet your specific requirements.
