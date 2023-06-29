@@ -15,18 +15,16 @@ Open a terminal or command prompt and navigate to the project directory.
 
 Usage
 Compiling and Running Tests
-Compile the project using Gradle by running the following command:
-
 Run the unit tests using the following command:
 
 ./gradlew test
+
 This will check if the implemented methods in the Point and Track classes pass the provided tests.
 
 TrackInfo Application
 Compile the project and run the TrackInfo application using the following command:
 
-./gradlew run --args="path/to/track/file.csv"
-Replace path/to/track/file.csv with the actual path to your track file in CSV format.
+./gradlew run 
 
 The application will display information about the track, including the number of points, lowest and highest points, total distance traveled, and average speed.
 
