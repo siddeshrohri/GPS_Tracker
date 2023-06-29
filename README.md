@@ -41,6 +41,3 @@ License
 This project is licensed under the MIT License.
 
 Feel free to explore and modify the code to meet your specific requirements.
-
-Acknowledgments
-The GPS Data Processing Program is an assignment provided by [University of Leeds/Nick Efford]. Special thanks to them for the guidance and resources provided.
